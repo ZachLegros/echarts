@@ -1,5 +1,5 @@
 {
-  "name": "echarts",
+  "name": "@zachlegros/echarts",
   "version": "5.5.0",
   "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
   "license": "Apache-2.0",
@@ -19,13 +19,9 @@
   "jsdelivr": "dist/echarts.min.js",
   "types": "index.d.ts",
   "homepage": "https://echarts.apache.org",
-  "bugs": {
-    "url": "https://github.com/apache/echarts/issues",
-    "email": "dev@echarts.apache.org"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apache/echarts.git"
+    "url": "git+https://github.com/ZachLegros/echarts.git"
   },
   "sideEffects": [
     "index.js",
